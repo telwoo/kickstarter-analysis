@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise had a play called *Fever* that did well in meeting fundraising goals in a short period of time. In reviewing this revenue generation, Louise decided to investigate how theater outcomes correlated with their fundraising goals. We will be reviewing how kickstarters, a new and upcoming business that is viewed as a platform for new ideas, demonstrates different outcomes and how those outcomes meet fundraising goals. This is what I used as a base for kickstarter definition using [Kickstarter 101](www.google.com).    
+Louise had a play called *Fever* that did well in meeting fundraising goals in a short period of time. In reviewing this revenue generation, Louise decided to investigate how theater outcomes correlated with their fundraising goals. We will be reviewing how kickstarters, a new and upcoming business that is viewed as a platform for new ideas, demonstrates different outcomes and how those outcomes meet fundraising goals. This is what I used as a base for kickstarter definition using [Kickstarter 101](https://help.kickstarter.com).    
 
 ### Purpose
 Within this project, we are analyzing the data to outline what the results of the campaign outcomes were, based on their fundraising goals and launch dates. This project is restricted to Parent Category, theater; the theater's outcomes; and those overall outcomes' fundraising goals. The outcome details are listed as: canceled, failed, and successful. *Live* outcomes was not utilized within he scope of this project. 
